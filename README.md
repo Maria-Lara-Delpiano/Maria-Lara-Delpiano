@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Maria-Lara-Delpiano
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
---->
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+Hi, I’m @Maria-Lara-Delpiano, I have a degree in molecular biotechnology,
+I ´m  particularly interested  about technological innovation,
+ information processing and biomedical research. 
+I am currently learning about 3D printing, and I hope the materials I have
+uploaded to my repositories on this topic are helpful for you.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
